@@ -1,0 +1,20 @@
+{
+  "name": "mini-Routing",
+  "homepage": "https://github.com/ZacharyBaker/Wk-4-Day-1-PracticeMiniProjRouting",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.7",
+    "angular-ui-router": "~0.2.15"
+  }
+}
